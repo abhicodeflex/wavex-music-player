@@ -1,5 +1,7 @@
 # 🎧 WaveX Music Player
 
+https://abhicodeflex.github.io/wavex-music-player/
+
 WaveX Music Player is a modern web-based music player with a futuristic UI, playlist system, and voice recorder. It is built using HTML, CSS, and JavaScript with advanced features like IndexedDB storage and audio visualization.
 
 ---
