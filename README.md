@@ -74,6 +74,7 @@ WaveX Music Player/
 ## 👨‍💻 Author
 
 **Abhishek Rathod**
+
 **Saurabh Bodile**
 MCA Student
 
