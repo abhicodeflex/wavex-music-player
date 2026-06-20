@@ -58,6 +58,9 @@ WaveX Music Player/
 * UI updates dynamically based on user interaction
 
 ---
+##📄 **Project Report**
+
+👉 Full Report: [Download PDF](https://drive.google.com/file/d/1QiHIm-4P5nAbmWPdIAu4d3EqaoQ7X0mk/view?usp=sharing)
 
 ## 🚧 Future Enhancements
 
